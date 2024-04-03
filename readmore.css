@@ -1,0 +1,33 @@
+@font-face {
+    font-family: poop;
+    src: url(fonts/ProductSans-Medium.ttf);
+}
+body{
+    background-image: url(naughtyimg/wallpaperflare.com_wallpaper.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "poop";
+    color: white;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+.boom{
+    color: red;
+}
+p{
+    font-size: 1.5em;
+}
+.f{
+    text-align: center;
+}
+.boom5{
+    background: orange;
+}
+.boom6{
+    background-color: white;
+}
